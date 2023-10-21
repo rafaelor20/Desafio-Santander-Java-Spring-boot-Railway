@@ -1,6 +1,8 @@
+Desafio DIO java com springboot e railway
+
 Diagrama de Classes:
 
-'''mermaid
+```mermaid
 
 classDiagram
   class User {
@@ -37,3 +39,4 @@ classDiagram
   User -- Resource: has
   User -- Card: has
   User -- News: has
+```
